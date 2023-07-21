@@ -1,4 +1,4 @@
-# React Component Styling
+# React App Debugging
 
 1. React 오류 메시지 이해하기
 
